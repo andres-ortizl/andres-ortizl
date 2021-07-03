@@ -7,6 +7,14 @@ I am Andrés, a software engineer majoring in computer engineering
 from Universidad Complutense de Madrid.
 ```
 
+### About me
+
+``` 
+I like Charmeleon
+```
+
+![Charmeleon](./assets/charmeleon.gif)
+
 
 
 ### Technologies
