@@ -1,3 +1,5 @@
+![wu](./assets/wu.gif)
+
 ### Hi there, feel free to stalk 👋
 
 ---
