@@ -57,7 +57,7 @@ I like Charmeleon
 ### Contact
 
 ---
-[![Gmail](https://img.shields.io/badge/andres.ortizl@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:andres.ortizl@gmail.com)](mailto:andres.ortizl@gmail.com)
+[![Gmail](https://img.shields.io/badge/andres.ortizl@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:andres.ortiz.xyz@gmail.com)](mailto:andres.ortiz.xyz@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9s-o-514516177/)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=andres-ortizl) 
