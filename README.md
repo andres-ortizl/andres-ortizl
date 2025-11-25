@@ -17,10 +17,6 @@ I like Charmeleon
 
 
 
-![Andrès's GitHub stats](https://github-readme-stats.vercel.app/api?username=andres-ortizl&show_icons=true&theme=dark)
-
-
-
 ### Contact
 
 ---
