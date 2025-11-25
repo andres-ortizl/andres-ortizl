@@ -1,10 +1,9 @@
 ### Hi there, feel free to stalk 👋
 
 ---
-Data Engineer at [Clarity Ai](https://clarity.ai/)
+Software Engineer
 ```
-I am Andrés, a software engineer majoring in computer engineering 
-from Universidad Complutense de Madrid.
+Yep
 ```
 
 ### About me
