@@ -1,10 +1,5 @@
 ### Hi there, feel free to stalk 👋
 
----
-Software Engineer
-```
-Yep
-```
 
 ### About me
 
